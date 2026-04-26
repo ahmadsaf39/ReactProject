@@ -1,17 +1,13 @@
+import Navbar from './component/navbar/navbar';
 import MyButton from "./component/myButton/MyButton";
-
-const App = () => {
-  return <MyButton />;
-};
-
-export default App;
-
-import Navbar from './components/navbar/Navbar';
+import MySlider from "./component/slider/MySlider";
 
 function App() {
   return (
     <div>
+      <MySlider />
       <Navbar />
+      <MyButton />
       <h1>Hello</h1>
     </div>
   );
