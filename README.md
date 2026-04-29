@@ -1,6 +1,7 @@
-# React Project 
+# React Project
 
-##  Description
+## Description
+
 This is a React project built using **Vite + TypeScript**.
 
 The project demonstrates reusable components and UI development using:
@@ -11,25 +12,29 @@ The project demonstrates reusable components and UI development using:
 
 ---
 
-##  Features
+## Features
+
 - Responsive Navbar using Bootstrap
+- Reusable Button login
 - Reusable Button component
 - Reusable Slider component using Material UI
 - Organized component structure
 
 ---
 
-##  Project Structure
+## Project Structure
 
 src/
 component/
 myButton/
 navbar/
 slider/
+login/
 
 ---
 
-##  Technologies Used
+## Technologies Used
+
 - React
 - TypeScript
 - Vite
@@ -39,5 +44,6 @@ slider/
 
 ---
 
-##  Author
+## Author
+
 Ahmad Safarjalani
