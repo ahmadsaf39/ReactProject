@@ -1,14 +1,8 @@
-import Navbar from './component/navbar/navbar';
-import MyButton from "./component/myButton/MyButton";
-import MySlider from "./component/slider/MySlider";
-
+import Login from './features/auth/login/login';
 function App() {
   return (
     <div>
-      <MySlider />
-      <Navbar />
-      <MyButton />
-      <h1>Hello</h1>
+      <Login />
     </div>
   );
 }
